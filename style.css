@@ -1,0 +1,18 @@
+.favicon p{
+    color: black;
+}
+.favicon{
+    border: 2px solid red;
+    padding: 20px;
+    margin: 20px;
+}
+.combine{
+    border: 2px solid red;
+    padding: 20px;
+    margin: 20px;
+}
+.trivia{
+    border: 2px solid red;
+    padding: 20px;
+    margin: 20px
+}
